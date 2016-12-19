@@ -1,0 +1,9 @@
+.green a{color: white; background-color: #B2ABA0;}
+.error {color: red; margin-left: 20px;}
+/**{border: 1px solid tan;}*/
+#fleet {size: 20%;}
+/*h4{display: inline;}*/
+.ilb{display: inline;}
+/*h4 + p {display: inline;}*/
+.title{display: inline-block;}
+.mybttn{margin-left: 30px; margin-bottom: 10px;}
